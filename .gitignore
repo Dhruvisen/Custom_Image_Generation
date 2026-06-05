@@ -1,0 +1,23 @@
+# Virtual environment
+venv/
+.venv/
+env/
+ENV/
+
+# Python caching and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+.ipynb_checkpoints/
+
+# Data and Outputs (large datasets/weights should not be pushed to GitHub)
+loracraft/data/
+loracraft/output/
+
+# Logs and system files
+*.log

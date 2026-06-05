@@ -1,0 +1,9 @@
+diffusers
+transformers
+accelerate
+peft
+gradio
+Pillow
+datasets
+safetensors
+huggingface_hub
